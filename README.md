@@ -1,20 +1,20 @@
 # XMS-Uploader
-XMS Uploader adalah uploader yang memiliki sedikit fitur yang lebih bagus dibandingkan biasanya dikarenakan memiliki fitur Shell Summon & Anti Malware Scanner
+XMS Uploader is a PHP script designed for file uploads on a web server. Its main features include a login form, file upload functionality, a responsive user interface, and the ability to summon a shell using the file_get_contents() function.
 
-# Informasi
+# Information
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Version: 2](https://img.shields.io/badge/Version-1-green.svg)
 ![Language: PHP](https://img.shields.io/badge/Language-PHP-blue.svg)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-green.svg)
 
-# Tampilan
+# Preview
 -------
 ![Login form](Picsart_24-03-23_19-47-18-989.jpg) 
 - Password: XMS
 
 ![Tampilan](Picsart_24-03-23_19-07-26-657.jpg) 
 
-# Fitur 
+# Feature
 - Kill
 - Logout
 - Shell Summon
@@ -25,9 +25,9 @@ XMS Uploader adalah uploader yang memiliki sedikit fitur yang lebih bagus diband
 ![Malware Scanner Log](Picsart_24-03-23_19-31-17-465.jpg) 
 Ini yang versi XMSob.php
 
-# Dukungan
+# Support Me
 [Click Me](https://www.msverse.site) 
-Mampir ke blogku sudah cukup membantu. 
+Stopping by my blog is enough to help me.
 
-# Tanggung Jawab
-Saya, sebagai pembuat script ini, dengan tegas menyatakan bahwa saya tidak bertanggung jawab atas penggunaan atau konsekuensi yang mungkin timbul dari penggunaan script ini.
+# Responsibility
+I, as the creator of this script, hereby declare that I am not responsible for the usage or any consequences that may arise from using this script.
