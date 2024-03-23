@@ -16,6 +16,7 @@ XMS Uploader adalah uploader yang memiliki sedikit fitur yang lebih bagus diband
 - Logout
 - Shell Summon
 - Command Line
+- Login form (password: XMS) 
 
 # Malware Scanner 
 ![Malware Scanner Log](Picsart_24-03-23_19-31-17-465.jpg) 
